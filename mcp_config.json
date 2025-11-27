@@ -1,0 +1,7 @@
+{
+  "routing": {
+    "embed": "sentence-transformers/all-MiniLM-L6-v2", 
+    "reason": "gpt-4-turbo-2024-04-09", 
+    "image": "dalle-3"
+  }
+}
